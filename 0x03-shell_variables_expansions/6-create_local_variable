@@ -1,2 +1,2 @@
 #!/bin/bash
-local_var BEST="School"
+BEST="School"
