@@ -1,0 +1,5 @@
+#!/bin/bash
+VARNAME="ls"
+echo $VARNAME
+value="rm *"
+echo $(value)
