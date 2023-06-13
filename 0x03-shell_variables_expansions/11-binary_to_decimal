@@ -1,0 +1,4 @@
+#!/bin/bash
+base_num1="2"
+base_num2="10"
+base_num2=$((base_num1))
